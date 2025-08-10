@@ -1,4 +1,4 @@
-## Hi there 👋
+## myself Vidya Shree C 👋
 
 <!--
 **studev-vidyashree/Studev-vidyashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
