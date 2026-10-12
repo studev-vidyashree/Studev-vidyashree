@@ -1,16 +1,28 @@
 ## myself Vidya Shree C 👋
 
-<!--
-**studev-vidyashree/Studev-vidyashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Cybersecurity Student at IIT Patna | BCA Graduate
 
-Here are some ideas to get you started:
+💻 Interested in Cybersecurity, Software Development, and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning programming, computer networking, cybersecurity fundamentals, and full-stack development.
+
+🚀 Interested in open-source contributions and building practical projects.
+
+## 🛠️ Technical Interests
+
+- Cybersecurity
+- Web Development
+- Software Development
+- Databases
+- Open Source
+
+## 🎯 Current Goals
+
+- Strengthen my programming fundamentals.
+- Develop practical cybersecurity skills.
+- Build and showcase software projects.
+- Learn and contribute to open-source communities.
+
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/
