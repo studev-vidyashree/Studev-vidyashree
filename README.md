@@ -1,6 +1,5 @@
 ## myself Vidya Shree C 👋
-
-🎓 MCA Cybersecurity Student at IIT Patna | BCA Graduate
+ BCA Graduate
 
 💻 Interested in Cybersecurity, Software Development, and Web Technologies.
 
